@@ -1,4 +1,4 @@
-# EnoB ART 🖌️
+# EnoB ART Portfolio Website 🖌️
 
 ![Logo](logo.png)
 
