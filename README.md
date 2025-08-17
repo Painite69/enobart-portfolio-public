@@ -2,7 +2,7 @@
 
 ![Logo](logo.png)
 
-A portfolio website showcasing the work of enob art, her services and methods.
+A portfolio website showcasing the work of EnoB ART, her services and methods, a Great artist in both physical and digital art.
 
 ## 🚀 Tech Stack
 - **Frontend:** React, Next.js and TypeScript.
@@ -21,9 +21,9 @@ A portfolio website showcasing the work of enob art, her services and methods.
 - Responsive layout with carousel for phone view.
 - A contact form connected to the owners email.
 
-## 📸 Main Menu
-![Main Menu on desktop](images/desktop/1.jpeg)
-![Main Menu on phone](images/phone/1.jpeg)
+## 📸 Homepage
+![Homepage on desktop](images/desktop/1.jpeg)
+![Homepage on phone](images/phone/1.jpeg)
 
 
 ## 🎥 Video showcase of the project
