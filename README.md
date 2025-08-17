@@ -13,7 +13,7 @@ A portfolio website showcasing the work of enob art, her services and methods.
 ## ✨ Features
 - Showcasing the work of EnoB ART with a full gallery.
 - A list of the services provided and the methods used to create the art.
-
+- 3 themes to choose from, light, dark and colorful.
 
 
 ## 🧑‍💻 Technical
